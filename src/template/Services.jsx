@@ -3,17 +3,11 @@ import SideInfo from "../components/SideInfo.jsx";
 import {useState} from "react";
 import img1 from "../../src/assets/services/1.png"
 import img3 from "../../src/assets/services/3.png"
-import imgback3 from "../../src/assets/servicesImg/3.jpg"
 import img4 from "../../src/assets/services/4.png"
-import imgback4 from "../../src/assets/servicesImg/4.jpg"
 import img5 from "../../src/assets/services/5.png"
-import imgback5 from "../../src/assets/servicesImg/5.jpg"
 import img6 from "../../src/assets/services/6.png"
-import imgback6 from "../../src/assets/servicesImg/6.jpg"
 import img7 from "../../src/assets/services/7.png"
-import imgback7 from "../../src/assets/ServicesImg/7.jpg"
 import img8 from "../../src/assets/services/8.png"
-import imgback8 from "../../src/assets/ServicesImg/8.png"
 import img9 from "../../src/assets/services/9.png"
 import imgback9 from "../../src/assets/ServicesImg/9.png"
 
@@ -35,37 +29,37 @@ const services = [
         text1: 'Consultoría en',
         text2: 'Transformación Digital',
         img: img3,
-        img2: imgback3
+        img2: imgback9
     },
     {
         text1: 'Integración de',
         text2: 'Sistemas',
         img: img4,
-        img2: imgback4
+        img2: imgback9
     },
     {
         text1: 'Soporte y',
         text2: 'Mantenimiento de Software',
         img: img5,
-        img2: imgback5
+        img2: imgback9
     },
     {
         text1: 'Desarrollo de',
         text2: 'Soluciones en la Nube',
         img: img6,
-        img2: imgback6
+        img2: imgback9
     },
     {
         text1: 'Automatización y',
         text2: 'Optimización de Procesos',
         img: img7,
-        img2: imgback7
+        img2: imgback9
     },
     {
         text1: 'Seguridad y',
         text2: 'Protección de Datos',
         img: img8,
-        img2: imgback8
+        img2: imgback9
     },
 ]
 
