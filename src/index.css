@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    margin: 0px;
+}
+.clip-polygon-85 {
+    clip-path: polygon(100% 100%, 65% 0%, 0% 0%, 0% 100%);
+    -webkit-clip-path: polygon(100% 100%, 65% 0%, 0% 0%, 0% 100%);
+}
+
+.backgorund1 {
+    background: url("../src/assets/pemex.png") center;
+    background-size: cover;
+}
+.backgorund2 {
+    background: url("../src/assets/AboutUs_side.JPG") center;
+    background-size: cover;
+}
