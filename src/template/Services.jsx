@@ -3,8 +3,6 @@ import SideInfo from "../components/SideInfo.jsx";
 import {useState} from "react";
 import img1 from "../../src/assets/services/1.png"
 import imgback1 from "../../src/assets/servicesImg/2.jpg"
-import img2 from "../../src/assets/services/2.png"
-import imgback2 from "../../src/assets/servicesImg/2.jpg"
 import img3 from "../../src/assets/services/3.png"
 import imgback3 from "../../src/assets/servicesImg/3.jpg"
 import img4 from "../../src/assets/services/4.png"
